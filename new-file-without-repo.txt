@@ -1,1 +1,2 @@
 This file craeted without remote repository.
+Add a new string.
