@@ -1,1 +1,2 @@
-Feature text file
+Feature text file.
+Add a new string.
